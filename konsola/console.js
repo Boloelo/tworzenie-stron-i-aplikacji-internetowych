@@ -1,0 +1,7 @@
+console.log("heja",404)
+console.log(window)
+console.table([1,2,3,"jeden", "dwa","trzy"])
+console.group("bulbulator")
+console.log("osiem")
+console.log("cztery")
+console.log("dwa")
