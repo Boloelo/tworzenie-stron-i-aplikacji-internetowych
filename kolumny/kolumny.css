@@ -1,0 +1,9 @@
+header {background-color: #FFDFD3;
+display: flex;}
+.side_column{background-color: #D291BC;
+    flex-grow: 1;
+}
+.main_column{background-color: #FEC8D8;
+display: flex; }
+footer{background-color: #957DAD;
+display: flex;}
