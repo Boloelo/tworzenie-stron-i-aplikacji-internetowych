@@ -1,4 +1,4 @@
-const x = 9;
+const x = 8;
 
 console.log(x +' + 2 =', x + 2);
 console.log(x + ' - 1 =', x - 1);
