@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div><textarea onfocus="this.style.backgroundColor='yellow'"></textarea></div>
+    <p>
+        Wpisz tekst: <input type="text"  onblur="this.value=toUpperCase()">
+    </p>
+    <script>
+        function toUpperCase() {
+            const inputField = document.getElementById('myInput');
+            inputField.value = inputField.value.toUpperCase();
+        }
+        
+    </script>
+<p id="colorText">Wybierz kolor:</p>
+<select id="option" onchange="document.getElementById('option').style.color = this.value">
+    <option value="black">black</option>
+    <option value="brown">brown</option>
+    <option value="blue">blue</option>
+    <option value="blueviolet">blueviolet</option>
+    <option value="burlywood">burlywood</option>
+    <option value="bisque">bisque</option>
+</select>
+
+
+    
+</body>
+</html>
