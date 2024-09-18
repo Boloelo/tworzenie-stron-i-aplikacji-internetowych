@@ -4,6 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>h1 {
+        color: green;
+        transition: text-shadow 0.3s ease;
+    }
+</style>
 </head>
 <body>
     <div><textarea onfocus="this.style.backgroundColor='yellow'"></textarea></div>
@@ -17,7 +22,7 @@
         }
         
     </script>
-<p id="colorText">Wybierz kolor:</p>
+<p >Wybierz kolor:</p>
 <select id="option" onchange="document.getElementById('option').style.color = this.value">
     <option value="black">black</option>
     <option value="brown">brown</option>
@@ -27,7 +32,19 @@
     <option value="bisque">bisque</option>
 </select>
 
+<p onclick="this.style.fontSize = 'xx-large';" ondblclick="this.style.fontSize = 'medium';">Dowolny tekst</p>
+<div><img src="elo.jpg"; height="300px"; width="500px"; oncontextmenu=""></div>
 
+<div>
+    <input type="text" onkeyup="document.getElementById('output').innerText = this.value" placeholder="Wpisz coś...">
+    <p id="output"></p>
+</div>
+
+
+
+<h1 onmouseover="this.style.textShadow='2px 2px 5px green'" onmouseout="this.style.textShadow=''" >
+Tekst w kolorze zielonym
+</h1>
     
 </body>
 </html>
