@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+    color: midnightblue;
+    font-family: Calibri, sans-serif;
+    font-size: 18px;
+    margin: 50px 100px;}
+    ol {
+        background-color: aliceblue;
+        border: 1px solid royalblue;
+        padding-left: 40px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    ol li {
+        border: 1px dashed cadetblue;
+        margin-left: -15px;
+        padding: 20px 5px;}
+
+a{color: dodgerblue; margin:  0 5px; text-decoration: none;}  
+strong{display: none;}
