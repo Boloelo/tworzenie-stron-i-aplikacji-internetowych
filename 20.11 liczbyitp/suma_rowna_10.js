@@ -5,6 +5,5 @@ const htrzy = document.getElementById("htrzy");
 
  for(let i = 100; i <=999; i++){
 
-
-
+ 
 }
