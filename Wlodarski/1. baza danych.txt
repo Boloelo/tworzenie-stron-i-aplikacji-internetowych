@@ -1,0 +1,5 @@
+01. Utwórz nowego użytkowanika i bazę danych, do której ma wszystkie uprawnienia:
+-- host: lokalny
+-- użytkownik: salon
+-- hasło: salon
+-- baza danych: salon

@@ -1,0 +1,67 @@
+body{
+    background-color: #7d7f85;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    margin: 5px;
+}
+
+header {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+main {
+    width: 800px;
+    margin: 0 auto; 
+}
+
+section.lewy {
+    background-color: #f8c013;
+    float: left; 
+    height: 600px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section.prawy {
+    background-color: #c2c3c2;
+    color: #886829;
+    float: right; 
+    margin-top: 40px; 
+    height: 560px;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 75%; 
+}
+
+p {
+    color: black;
+    padding: 0 100px; 
+    margin: 0; 
+}
+
+p.wyposażenie {
+    text-align: left; 
+}
+
+p.cena {
+    text-align: right; 
+}
+
+footer {
+    background-color: #1a3b98;
+    color: white;
+    padding: 10px;
+    text-align: center; 
+}

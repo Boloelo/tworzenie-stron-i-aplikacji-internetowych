@@ -1,0 +1,61 @@
+Style zastosowane na stronie:
+
+01. Dla elementu <body>
+  -- kolor tła: 7d7f85
+  -- czcionka: Verdana
+  -- margines: 5 pikseli
+  -- margines wewnętrzny: 10 pikseli
+
+02. Dla elementu <header>
+  -- wysokość: 200 pikseli
+  -- szerokość: 100% szerokości kontenera
+  -- zawartość ma być wyśrodkowana
+
+03. Dla elementu <main>
+  -- szerokość: 800 pikseli
+  -- zawartość ma być wyśrodkowana
+
+04. Dla elementu <section> z klasą "lewy"
+  -- kolor tła: f8c013
+  -- "opływanie": do lewej strony
+  -- wysokość: 600 pikseli
+  -- zawartość ma być wyśrodkowana
+  -- szerokość: 30% szerokości kontenera
+
+05. Dla elementu <section> z klasą "prawy"
+  -- kolor tła: c2c3c2
+  -- kolor czcionki: 886829
+  -- "opływanie": do prawej strony
+  -- margines wewnętrzny górny: 40 pikseli
+  -- wysokość: 560 pikseli
+  -- zawartość ma być wyśrodkowana
+  -- szerokość: 70% szerokości kontenera
+
+06. Element z obrazkiem z samochodami w różnych kolorach
+  -- szerokość: 75% szerokości kontenera
+
+07. Tekst w paragrafach ze szczegółami wyposażenia (pobierane z bazy danych)
+  -- kolor czcionki: czarny
+  -- margines wewnętrzny górny i dolny: 0 pikseli
+  -- margines wewnętrzny prawy i lewy: 100 pikseli
+  -- wyposażenie: tekst wyrównany do lewej
+  -- cena: tekst wyrównany do prawej
+
+08. Dla elementu <footer>
+  -- kolor tła: 1a3b98
+  -- kolor czcionki: biały
+  -- margines wewnętrzny: 10 pikseli
+  -- zawartość ma być wyśrodkowana
+
+
+
+
+
+
+
+
+
+
+
+
+

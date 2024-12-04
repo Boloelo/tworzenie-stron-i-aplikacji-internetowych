@@ -1,0 +1,30 @@
+01. W elemencie <body> umieść:
+ a) Test połączenia z bazą danych
+ b) Element <header> 
+   -- obrazek "baner.jpg" wewnątrz tego nagłówka
+ c) Element <main>
+   -- element <section> z klasą "lewy"
+   ---- pionowa linia
+
+   ---- nagłówek drugiego stopnia z tekstem "Kolor"
+   ---- formularz (obsługa w JavaScript - szczegóły w pliku javascript.txt)
+
+   ---- nagłówek drugiego stopnia z tekstem "Model"
+   ---- formularz (obsługa w PHP - szczegóły w pliku php.txt)
+   ---- pionowa linia
+
+   -- element <section> z klasą "prawy"
+   ---- nagłówek pierwszego stopnia z tekstem "Twój samochód"
+   ---- obrazek "szary.png", który potem będzie podmieniany na samochód w innym kolorze
+   ---- pionowa linia
+
+   ---- nagłówek pierwszego stopnia z tekstem "Model"
+   ---- informacje pobrane z bazy danych (szczegóły w pliku php.txt)
+    
+   ---- nagłówek pierwszego stopnia z tekstem "Wyposażenie dodatkowe"
+   ---- informacje pobrane z bazy danych (szczegóły w pliku php.txt) 
+
+   -- przełamanie wiersza
+   -- element <footer>
+   ---- akapit z tekstem "Autor strony Imię Nazwisko". Imię i nazwisko ma być tekstem pochylonym
+ d) Zamknięcię połączenia z bazą danych

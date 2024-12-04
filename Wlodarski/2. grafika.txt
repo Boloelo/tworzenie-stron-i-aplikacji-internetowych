@@ -1,0 +1,2 @@
+01. Z pliku samochod.png utwórz pięć kopii w pięciu kolorach: czerwonym, niebieskim, szarym, zielonym i żółtym. Zapisz te pliki w katalogu images.
+02. W katalogu images zapisz również plik baner.jpg.
